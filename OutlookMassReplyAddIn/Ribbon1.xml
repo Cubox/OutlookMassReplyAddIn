@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui">
+  <contextMenus>
+    <contextMenu idMso="ContextMenuMultipleItems">
+      <button id="MassReply" imageMso="ConstrainNumeric" label="Mass Reply" onAction="MassReply" />
+    </contextMenu>
+    <contextMenu idMso="ContextMenuMailItem">
+      <button id="TemplateReply" imageMso="ConstrainNumeric" label="Template Reply" onAction="MassReply" />
+    </contextMenu>
+  </contextMenus>
+</customUI>
