@@ -1,4 +1,6 @@
 # OutlookMassReplyAddIn
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FCubox-%2FOutlookMassReplyAddIn.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FCubox-%2FOutlookMassReplyAddIn?ref=badge_shield)
+
 fuck outlook
 
 This plugin is made for sending mass emails with the same content to a lot of people in outlook
@@ -21,3 +23,7 @@ Well, Outlook is really bad. You cannot save in memory the content of a section 
 Same for attachements, it's way too easy to just keep them in memory, you NEED to keep them on disk and add them ONE BY ONE for EACH EMAIL.
 
 I hate Outlook.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FCubox-%2FOutlookMassReplyAddIn.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FCubox-%2FOutlookMassReplyAddIn?ref=badge_large)
